@@ -1,3 +1,3 @@
-#Sruthy J Mallya
-##CSE student
-###At RIT Kottayam
+# Sruthy J Mallya
+## CSE student
+### At RIT Kottayam
