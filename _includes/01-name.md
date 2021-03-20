@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#Sruthy J Mallya
+##CSE student
+###At RIT Kottayam
